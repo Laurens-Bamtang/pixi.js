@@ -27,6 +27,6 @@
   "dependencies": {
     "@pixi/constants": "5.2.1",
     "@pixi/core": "5.2.1",
-    "@pixi/settings": "5.2.1"
+    "@pixi/settings": "5.2.2"
   }
 }
